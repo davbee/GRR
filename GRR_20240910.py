@@ -1,5 +1,6 @@
 """
-David Pih on 2022-07-05
+First: 2022-07-05
+Last: 2024-09-10
 
 Modified the example program from https://pypi.org/project/GaugeRnR/
 for easier use and interpretation of the results
