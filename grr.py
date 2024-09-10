@@ -7,8 +7,9 @@ for easier use and interpretation of the results
 
 This program calcualtes Gauge R&R parameters from test data.
 
-# acceptance criteria for pass or fail of the measurements
-# value = GaugeRnR Variance
+acceptance criteria for pass or fail of the measurements
+value = GaugeRnR Variance
+
 if grr_value < 0.10:
     print('Gage R&R variance < 10%: Acceptable and good test method')
 elif grr_value > 0.10 and value < 0.3:
